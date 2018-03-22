@@ -7,7 +7,7 @@ from trytond.tests.test_tryton import ModuleTestCase
 
 class AccountTestCase(ModuleTestCase):
     'Test Account Es module'
-    module = 'account_es'
+    module = 'account_es_normal_pyme'
 
 
 def suite():
